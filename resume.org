@@ -26,16 +26,16 @@
 
 * Experience
 ** Software Engineer, Lockheed Martin Advanced Technologies, 2007 - Present
-   - Currently developing adaptations of game theoretic algorithms to support a DARPA project for Resilient Command and Control Monitoring, Assessment, and Replanning. 
+   - Currently developing adaptations of game theoretic algorithms to support a DARPA project for Resilient Command and Control Monitoring, Assessment, and Replanning.
    - Developed front end web interfaces and back end web services for the Office of Naval Research (ONR) on C2RPC. Also provided on site installation and support for the team when deploying our services, and reported customer feedback to the team.
    - Prototyped a wearable, networked augmented reality system to enhance situational awareness for dismounted warfighters.  Developed sensor alignment algorithms and integrated hardware and software components from five partners; successfully demonstrated in the field to DARPA personnel in January 2010.
    - Developed a Python-based framework to automate testing procedures for the Future Combat Systems (FCS) project.
-   - Developed prototype Android Application for unmanned vehicle inventory interaction.
+   - Developed prototype Android application for unmanned vehicle inventory interaction.
    - Developed dynamically allocating ActiveMQ broker, using RabbitMQ, in early Cloud Computing reasearch exploring scalability of known messaging implementations.
-   - Developed a program to create a searchable database of a legacy systems's log files.
+   - Developed a program to create a searchable database of a legacy systems' log files.
    - Developed integration code connecting PostGIS databases to a JSF web client to facilitate web enabled track fusion. Provided onsite installation and product presentation to the customer.
 ** Web Development Intern, USGS Astrology, 2006 - 2007
-   - Worked on websites for the USGS Astrogeology department including astrogeology.usgs.gov and mapaplanet.org. Gained knowledge in Javascript, HTML, PERL scripting, Postgres and GIS databases
+   - Developed and updated websites for the USGS Astrogeology department including astrogeology.usgs.gov and mapaplanet.org. Gained knowledge in Javascript, HTML, Perl, Postgres and GIS databases.
 * Awards
   - 2010: Lockheed Martin Individual Spot Award in recognition of customer praise for technical support across numerous product releases.
   - 2008: Lockheed Martin Individual Spot Award for exceeding expectations and demonstrating exceptional performance.
@@ -44,7 +44,7 @@
   - /Masters of Science in Computer Science/, USC 2013 (expected)
   - /Bachelor of Science in Computer Science/, Northern Arizona University 2002
 * Technical Proficiencies
-  - Java: 4+ years of object-oriented programming experience using Java EE (JBoss, Glassfish)
-  - JavaScript: 1+ years of experience developing web applications using HTML, Javascript(YUI) and CSS
-  - Linux: 1+ years of linux system administration and development experience
+  - Java: Over four years of object-oriented programming experience using Java EE (JBoss, Glassfish)
+  - JavaScript: Over a year of experience developing web applications using HTML, Javascript(YUI) and CSS
+  - Linux: Over a year of Linux system administration and development experience
   - Python: Significant experience developing a Python-based automated testing framework.
