@@ -35,7 +35,7 @@
    - Developed a program to parse legacy system log files and create a Hibernate database containing the information.
    - Developed integration code connecting PostGIS databases to a JSF web client to facilitate web enabled track fusion. Provided on-site installation and product presentation to the customer.
 ** Web Development Intern, USGS Astrogeology, 2006 - 2007
-   - Developed and updated websites for the USGS Astrogeology department including astrogeology.usgs.gov and mapaplanet.org using Javascript, HTML, Perl, Postgres and GIS databases.
+   - Developed and updated websites for the USGS Astrogeology department including astrogeology.usgs.gov and mapaplanet.org using JavaScript, HTML, Perl, Postgres and GIS databases.
 * Awards
   - 2010: Lockheed Martin Individual Spot Award in recognition of customer praise for technical support across numerous product releases.
   - 2008: Lockheed Martin Individual Spot Award for exceeding expectations and demonstrating exceptional performance.
