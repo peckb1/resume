@@ -34,7 +34,7 @@
    - Developed dynamically allocating ActiveMQ broker, using RabbitMQ, in early Cloud Computing reasearch exploring scalability of known messaging implementations.
    - Developed a program to create a searchable database of a legacy systems' log files.
    - Developed integration code connecting PostGIS databases to a JSF web client to facilitate web enabled track fusion. Provided onsite installation and product presentation to the customer.
-** Web Development Intern, USGS Astrology, 2006 - 2007
+** Web Development Intern, USGS Astrogeology, 2006 - 2007
    - Developed and updated websites for the USGS Astrogeology department including astrogeology.usgs.gov and mapaplanet.org. Gained knowledge in Javascript, HTML, Perl, Postgres and GIS databases.
 * Awards
   - 2010: Lockheed Martin Individual Spot Award in recognition of customer praise for technical support across numerous product releases.
