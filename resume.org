@@ -48,3 +48,4 @@
   - JavaScript: Over a year of experience developing web applications using JavaScript(YUI), HTML, CSS and GWT.
   - Linux: Over a year of Linux system administration and development experience.
   - Python: Significant experience developing a Python-based automated testing framework.
+  - Scala: Some scala development in creating a domain specific language for mathmetical equations.
