@@ -26,7 +26,8 @@
 
 * Experience
 ** Software Engineer, Lockheed Martin Advanced Technologies, 2007 - Present
-   - Currently developing Java adaptations of game theoretic algorithms to support mission planning, monitoring and assessment with emphasis on adversaries and deceptive reasoning for military operations.
+   - Currently developing Java solutions for auditing and archiving of Windows security logs across secure networks.
+   - Developed developing Java adaptations of game theoretic algorithms to support mission planning, monitoring and assessment with emphasis on adversaries and deceptive reasoning for military operations.
    - Developed JavaScript web clients and Jersey web services for the Office of Naval Research. Provided on-site installation and support for the team when deploying our product and gathered customer feedback to update the team.
    - Prototyped a wearable, networked augmented reality system to enhance situational awareness for dismounted warfighters.  Developed sensor alignment algorithms and integrated hardware and software components from five partners; successfully demonstrated in the field to DARPA personnel in January 2010.
    - Developed a Python-based framework for automating testing procedures.
@@ -48,4 +49,4 @@
   - JavaScript: Over a year of experience developing web applications using JavaScript(YUI), HTML, CSS and GWT.
   - Linux: Over a year of Linux system administration and development experience.
   - Python: Significant experience developing a Python-based automated testing framework.
-  - Scala: Some scala development in creating a domain specific language for mathmetical equations.
+  - Scala: Some scala development in creating a domain specific language for mathematical equations.
