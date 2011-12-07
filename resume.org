@@ -26,7 +26,8 @@
 
 * Experience
 ** Software Engineer, Lockheed Martin Advanced Technologies, 2007 - Present
-   - Currently developing Java solutions for auditing and archiving of Windows security logs across secure networks.
+   - Currently updating and continuing work on a scala framework used for modeling gene networks for the National Institude of Health.
+   - Developed Java solutions for auditing and archiving Windows security logs across secure networks.
    - Developed developing Java adaptations of game theoretic algorithms to support mission planning, monitoring and assessment with emphasis on adversaries and deceptive reasoning for military operations.
    - Developed JavaScript web clients and Jersey web services for the Office of Naval Research. Provided on-site installation and support for the team when deploying our product and gathered customer feedback to update the team.
    - Prototyped a wearable, networked augmented reality system to enhance situational awareness for dismounted warfighters.  Developed sensor alignment algorithms and integrated hardware and software components from five partners; successfully demonstrated in the field to DARPA personnel in January 2010.
@@ -38,6 +39,7 @@
 ** Web Development Intern, USGS Astrogeology, 2006 - 2007
    - Developed and updated websites for the USGS Astrogeology department including astrogeology.usgs.gov and mapaplanet.org using JavaScript, HTML, Perl, Postgres and GIS databases.
 * Awards
+  - 2011: Lockheed Martin Individual Spot Award in recognition of exceeding project expectations resulting in additional project funding kept on-site.
   - 2010: Lockheed Martin Individual Spot Award in recognition of customer praise for technical support across numerous product releases.
   - 2008: Lockheed Martin Individual Spot Award for exceeding expectations and demonstrating exceptional performance.
   - 2008: Lockheed Martin Team Special Recognition Award for exceeding expectations and demonstrating exceptional performance.
@@ -48,5 +50,5 @@
   - Java: Over four years of object-oriented programming experience using Java EE (JBoss, Glassfish).
   - JavaScript: Over a year of experience developing web applications using JavaScript(YUI), HTML, CSS and GWT.
   - Linux: Over a year of Linux system administration and development experience.
+  - Scala: Scala development creating a domain specific language for mathematical equations, and updating scala frameworks and libraries used for kinetic modeling.
   - Python: Significant experience developing a Python-based automated testing framework.
-  - Scala: Some scala development in creating a domain specific language for mathematical equations.
