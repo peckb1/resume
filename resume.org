@@ -45,7 +45,7 @@
   - 2008: Lockheed Martin Team Special Recognition Award for exceeding expectations and demonstrating exceptional performance.
 * Education
   - /Master of Science in Computer Science/, USC 2013 (expected)
-  - /Bachelor of Science in Computer Science/, Northern Arizona University 2002
+  - /Bachelor of Science in Computer Science/, Northern Arizona University 2007
 * Technical Proficiencies
   - Java: Over four years of object-oriented programming experience using Java EE (JBoss, Glassfish).
   - JavaScript: Over a year of experience developing web applications using JavaScript(YUI), HTML, CSS and GWT.
