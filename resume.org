@@ -26,23 +26,22 @@
 
 * Experience
 ** Software Engineer, Lockheed Martin Advanced Technologies, 2007 - Present
-   - Working in Scala to provide a biologist-friendly network modeling tool for the National Institute of Health, currently in alpha testing.
-   - Created a Java solution for auditing and archiving of Windows security logs across secure networks for internal Systems Administrators.
-   - Developed Javascript web clients, Java back end services, and Jersey web services for use by the Office of Naval Research for Navy Admiral briefings.  Was customer face of product; provided active support reporting customer feedback to developers, and providing developers on-site debugging information in the production environment.
+   - Working in Scala to provide a biologist-friendly network modeling tool for the National Institutes of Health which is currently in alpha testing.
+   - Created a Java solution for auditing and archiving of Windows security logs across secure networks for internal systems administrators.
+   - Developed Javascript web clients, Java back end services, and Jersey web services for use by the Office of Naval Research for Navy Admiral briefings.  Was customer face of product; provided active support reporting customer feedback to developers, and provided developers on-site debugging information in the production environment.
    - Prototyped a wearable, networked augmented reality system to enhance situational awareness for dismounted warfighters.  Developed sensor alignment algorithms and integrated hardware and software components from five partners; successfully demonstrated in the field to DARPA personnel in January 2010.
    - Developed prototype Android application for unmanned vehicle inventory interaction.
    - Developed a Python-based testing framework for automating testing procedures; framework was used for two years until project completion. 
-   - Created a multi-language (Python & Java) dynamically allocating resource cloud using the RabbitMQ implementation of AMQP.
-   - Developed a prototype web enabled track fusion application for the Air Force using JSF to communicate to a Java backend with a Postgres database using GIS extensions. 
-   - Have worked directly with customers for on-site installations, gathering and reporting user feedback, and product presentations.
+   - Created a multi-language (Python & Java), dynamically allocating resource cloud using the RabbitMQ implementation of AMQP.
+   - Developed a prototype web enabled track fusion application for the Air Force using JSF to communicate to a Java backend with a Postgres database using GIS extensions. Provided on-site installations and product presentations.
 ** Web Development Intern, USGS Astrogeology, 2006 - 2007
-   - Developed and updated websites for the USGS Astrogeology department including astrogeology.usgs.gov and mapaplanet.org using JavaScript, HTML, Perl, in conjuction with Postgres and GIS databases.
+   - Developed and maintained websites for the USGS Astrogeology department including astrogeology.usgs.gov and mapaplanet.org using JavaScript, HTML, and Perl, in conjunction with Postgres and GIS databases.
 * Technical Proficiencies
   - Java: Five years of Java object-oriented programming experience.
   - Scala: Significant experience developing Scala applications.
-  - SBT: Experience with setting up SBT projects as well as upgrading old SBT versions to current version.
+  - SBT: Experience with creating and maintaining SBT projects across multiple versions.
   - Git/Mercurial/SVN: Significant experience with version control systems, including setting up a Gitolite server to provide site wide Git access.
-  - JavaScript: A year of experience developing web applications using JavaScript(YUI), HTML, CSS and GWT.
+  - JavaScript/GWT/HTML: A year of experience developing web applications using JavaScript(YUI), HTML, CSS and GWT.
   - Linux: A year of Linux system administration and development experience.
   - Python: Experience developing a Python-based automated testing framework.
 * Awards
