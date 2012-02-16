@@ -1,3 +1,7 @@
+ORG-CENTER-START
+12517 Heatherton Court #110 | San Diego, CA | 619-800-8774 | brian.andrew.peck@gmail.com
+-----
+ORG-CENTER-END
 
 Experience 
 ~~~~~~~~~~~
@@ -23,11 +27,11 @@ Augmented Reality Prototyping for DARPA ULTRA-Vis
 
 Test Automation Framework 
 --------------------------
-   - Developed a Python-based test automatiion framework to allow for a faster QA process. Responsible for creation of framework and examples to allow for developers to better automate procedure based testing. Framework was in use for two years until project completion.
+   - Developed a Python-based test automation framework to allow for a faster testing cycle. Responsible for creation of framework and examples to allow for developers to better automate procedure based testing. Framework was in use for two years until project completion.
 
 Web Enabled Intelligence and Surveillance Tool 
 -----------------------------------------------
-   - Developer on a team that used JAX-WS to create web services, and a GWT client to present tracks, routes, and threat maps. Responsible for connecting web services to Postgres database and controling of geospecial extensions, along with logic to perform spatial reasoning on data.
+   - Developer on a team that used JAX-WS to create web services, and a GWT client to present tracks, routes, and threat maps. Responsible for connecting web services to Postgres database and controlling of geospatial extensions, along with logic to perform spatial reasoning on data.
 
 Web Development Intern, USGS Astrogeology, 2006 - 2007 
 =======================================================
@@ -39,7 +43,7 @@ Technical Expertise
 Languages 
 ==========
   - Proficient in Java and Scala
-  - Comfortable in Javascript, Python, Perl, HTML, CSS
+  - Comfortable in Javascript, HTML, CSS, Python, and Perl
 
 Tools 
 ======
@@ -51,12 +55,12 @@ Platforms
 
 Awards 
 ~~~~~~~
-  - 2011: Lockheed Martin Spot Award for exceding project expectations on security log aggregation tool.
+  - 2011: Lockheed Martin Spot Award for exceeding project expectations on security log aggregation tool.
   - 2010: Lockheed Martin Spot Award for recognition of customer praise in creating C2 organizational tool, and technical support.
-  - 2008: Lockheed Martin Spot Award for demonstrating exceptional performance developing web enabled track fusion cabailities.
+  - 2008: Lockheed Martin Spot Award for demonstrating exceptional performance developing web enabled track fusion capabilities.
   - 2008: Lockheed Martin Team Special Recognition Award for work in Java web services.
 
 Education 
 ~~~~~~~~~~
-  - /Master of Science in Computer Science/, USC 2013 (expected)
+  - /Master of Science in Computer Science/, University Southern California 2013 (expected)
   - /Bachelor of Science in Computer Science/, Northern Arizona University 2007
