@@ -31,7 +31,7 @@
 *** Security Event Log Aggregation Tool
    - Lead developer for a Java-based Windows security log aggregation and auditing tool for use across secure networks. Developed user interfaces and tools for the locating and querying of logs across a network, as well as logic performed on the data for auditing. Integrated with OS independent tools to allow for use on networks with current and legacy systems. 
 *** Web enabled Command and Control for Office of Naval Research
-   - Developed Javacript tools, and Jersey web services for ONR Command and Control (C2) capabilities, facilitating planning and organizational briefings to Navy Admirals. Responsible for creation of organizational tool and RESTful web services for providing XML and JSON data to other C2 applications.
+   - Developed JavaScript tools, and Jersey web services for ONR Command and Control (C2) capabilities, facilitating planning and organizational briefings to Navy Admirals. Responsible for creation of organizational tool and RESTful web services for providing XML and JSON data to other C2 applications.
 *** Augmented Reality Prototyping for DARPA ULTRA-Vis
    - Developer on a team that prototyped a wearable, P2P, augmented reality system to provide additional situational awareness for warfighters. Developed P2P communication systems and integrated hardware and software solutions from five partners to allow functionality in and out of GPS challenged environments. Successfully demonstrated in the field to DARPA personnel in January 2010.
 *** Test Automation Framework
@@ -43,7 +43,7 @@
 * Technical Expertise
 ** Languages
   - Proficient in Java and Scala
-  - Comfortable in Javascript, HTML, CSS, Python, and Perl
+  - Comfortable in JavaScript, HTML, CSS, Python, and Perl
 ** Tools
   - SBT, Ant, Git, Mercurial, Eclipse, IntelliJ
 ** Platforms
@@ -54,5 +54,5 @@
   - 2008: Lockheed Martin Spot Award for demonstrating exceptional performance developing web enabled track fusion capabilities.
   - 2008: Lockheed Martin Team Special Recognition Award for work in Java web services.
 * Education
-  - /Master of Science in Computer Science/, USC 2013 (expected)
+  - /Master of Science in Computer Science/, University Southern California 2013 (expected)
   - /Bachelor of Science in Computer Science/, Northern Arizona University 2007

@@ -1,7 +1,3 @@
-ORG-CENTER-START
-12517 Heatherton Court #110 | San Diego, CA | 619-800-8774 | brian.andrew.peck@gmail.com
------
-ORG-CENTER-END
 
 Experience 
 ~~~~~~~~~~~
@@ -19,7 +15,7 @@ Security Event Log Aggregation Tool
 
 Web enabled Command and Control for Office of Naval Research 
 -------------------------------------------------------------
-   - Developed Javacript tools, and Jersey web services for ONR Command and Control (C2) capabilities, facilitating planning and organizational briefings to Navy Admirals. Responsible for creation of organizational tool and RESTful web services for providing XML and JSON data to other C2 applications.
+   - Developed JavaScript tools, and Jersey web services for ONR Command and Control (C2) capabilities, facilitating planning and organizational briefings to Navy Admirals. Responsible for creation of organizational tool and RESTful web services for providing XML and JSON data to other C2 applications.
 
 Augmented Reality Prototyping for DARPA ULTRA-Vis 
 --------------------------------------------------
@@ -43,7 +39,7 @@ Technical Expertise
 Languages 
 ==========
   - Proficient in Java and Scala
-  - Comfortable in Javascript, HTML, CSS, Python, and Perl
+  - Comfortable in JavaScript, HTML, CSS, Python, and Perl
 
 Tools 
 ======
