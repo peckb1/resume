@@ -1,58 +1,62 @@
-#+TITLE:
-#+AUTHOR:
-#+DATE:
-#+DESCRIPTION: Brian Peck's Resume
-#+KEYWORDS: 
-#+LANGUAGE:  en
-#+OPTIONS:   H:3 num:nil toc:nil \n:nil @:t ::t |:t ^:nil -:t f:t *:t <:t
-#+OPTIONS:   TeX:t LaTeX:t skip:nil d:nil todo:t pri:nil tags:not-in-toc
-#+OPTIONS:   author:nil creator:nil timestamp:nil
-#+INFOJS_OPT: view:nil toc:nil ltoc:t mouse:underline buttons:0 path:http://orgmode.org/org-info.js
-#+EXPORT_SELECT_TAGS: export
-#+EXPORT_EXCLUDE_TAGS: noexport
-#+LINK_UP:   
-#+LINK_HOME: 
-#+XSLT:
-#+LATEX_HEADER: \usepackage{fullpage}
-#+LATEX_HEADER: \usepackage[T1]{fontenc}
-#+LATEX_HEADER: \usepackage[scaled]{helvet}
-#+LATEX_HEADER: \renewcommand*\familydefault{\sfdefault}}
 
-#+BEGIN_CENTER
-#+LaTeX: {\huge Brian Peck} \\
-12517 Heatherton Court #110 | San Diego, CA | 619-800-8774 | brian.andrew.peck@gmail.com
------
-#+END_CENTER
+Experience 
+~~~~~~~~~~~
 
-* Experience
-** Software Engineer, Lockheed Martin Advanced Technologies, 2007 - Present
-*** Biology Systems Simulation Framework
+Software Engineer, Lockheed Martin Advanced Technologies, 2007 - Present 
+=========================================================================
+
+Biology Systems Simulation Framework 
+-------------------------------------
    - Lead developer for a Scala-based network modeling tool for the National Institutes of Health(NIH). Responsible for the development and maintenance of algorithms and user interfaces to allow biologists to model genetic reactions, and simulate the behavior of living cells, allowing for faster testing than with physical organisms.
-*** Security Event Log Aggregation Tool
+
+Security Event Log Aggregation Tool 
+------------------------------------
    - Lead developer for a Java-based Windows security log aggregation and auditing tool for use across secure networks. Developed user interfaces and tools for the locating and querying of logs across a network, as well as logic performed on the data for auditing. Integrated with OS independent tools to allow for use on networks with current and legacy systems. 
-*** Web enabled Command and Control for Office of Naval Research
+
+Web enabled Command and Control for Office of Naval Research 
+-------------------------------------------------------------
    - Developed Javacript tools, and Jersey web services for ONR Command and Control (C2) capabilities, facilitating planning and organizational briefings to Navy Admirals. Responsible for creation of organizational tool and RESTful web services for providing XML and JSON data to other C2 applications.
-*** Augmented Reality Prototyping for DARPA ULTRA-Vis
+
+Augmented Reality Prototyping for DARPA ULTRA-Vis 
+--------------------------------------------------
    - Developer on a team that prototyped a wearable, P2P, augmented reality system to provide additional situational awareness for warfighters. Developed P2P communication systems and integrated hardware and software solutions from five partners to allow functionality in and out of GPS challenged environments. Successfully demonstrated in the field to DARPA personnel in January 2010.
-*** Test Automation Framework
+
+Test Automation Framework 
+--------------------------
    - Developed a Python-based test automatiion framework to allow for a faster QA process. Responsible for creation of framework and examples to allow for developers to better automate procedure based testing. Framework was in use for two years until project completion.
-*** Web Enabled Intelligence and Surveillance Tool
+
+Web Enabled Intelligence and Surveillance Tool 
+-----------------------------------------------
    - Developer on a team that used JAX-WS to create web services, and a GWT client to present tracks, routes, and threat maps. Responsible for connecting web services to Postgres database and controling of geospecial extensions, along with logic to perform spatial reasoning on data.
-** Web Development Intern, USGS Astrogeology, 2006 - 2007
+
+Web Development Intern, USGS Astrogeology, 2006 - 2007 
+=======================================================
    - Developed and maintained websites for the USGS Astrogeology department including astrogeology.usgs.gov and mapaplanet.org using JavaScript, HTML, and Perl, in conjunction with Postgres and GIS databases.
-* Technical Expertise
-** Languages
+
+Technical Expertise 
+~~~~~~~~~~~~~~~~~~~~
+
+Languages 
+==========
   - Proficient in Java and Scala
-  - Comfortable in Javascript, HTML, CSS, Python, and Perl
-** Tools
+  - Comfortable in Javascript, Python, Perl, HTML, CSS
+
+Tools 
+======
   - SBT, Ant, Git, Mercurial, Eclipse, IntelliJ
-** Platforms
+
+Platforms 
+==========
   - Windows, Linux
-* Awards
+
+Awards 
+~~~~~~~
   - 2011: Lockheed Martin Spot Award for exceding project expectations on security log aggregation tool.
   - 2010: Lockheed Martin Spot Award for recognition of customer praise in creating C2 organizational tool, and technical support.
   - 2008: Lockheed Martin Spot Award for demonstrating exceptional performance developing web enabled track fusion cabailities.
   - 2008: Lockheed Martin Team Special Recognition Award for work in Java web services.
-* Education
+
+Education 
+~~~~~~~~~~
   - /Master of Science in Computer Science/, USC 2013 (expected)
   - /Bachelor of Science in Computer Science/, Northern Arizona University 2007
