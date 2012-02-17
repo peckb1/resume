@@ -1,3 +1,7 @@
+ORG-CENTER-START
+12517 Heatherton Court #110 | San Diego, CA | 619-800-8774 | brian.andrew.peck@gmail.com
+-----
+ORG-CENTER-END
 
 Experience 
 ~~~~~~~~~~~
@@ -7,7 +11,7 @@ Software Engineer, Lockheed Martin Advanced Technologies, 2007 - Present
 
 Biology Systems Simulation Framework 
 -------------------------------------
-   - Lead developer for a Scala-based network modeling tool for the National Institutes of Health(NIH). Responsible for the development and maintenance of algorithms and user interfaces to allow biologists to model genetic reactions, and simulate the behavior of living cells, allowing for faster testing than with physical organisms.
+   - Lead developer for a Scala-based network modeling tool for the National Institutes of Health(NIH). Responsible for the development and maintenance of algorithms and user interfaces to allow biologists to model genetic reactions. Development and evaluation by NIH ongoing.
 
 Security Event Log Aggregation Tool 
 ------------------------------------
@@ -27,7 +31,7 @@ Test Automation Framework
 
 Web Enabled Intelligence and Surveillance Tool 
 -----------------------------------------------
-   - Developer on a team that used JAX-WS to create web services, and a GWT client to present tracks, routes, and threat maps. Responsible for connecting web services to Postgres database and controlling of geospatial extensions, along with logic to perform spatial reasoning on data.
+   - Developer on a team that used JAX-WS and GWT create web services and a client to present tracks, routes, and threat maps. Responsible for connecting web services to Postgres database and controlling of geospatial extensions, along with logic to perform spatial reasoning on data.
 
 Web Development Intern, USGS Astrogeology, 2006 - 2007 
 =======================================================
@@ -39,7 +43,7 @@ Technical Expertise
 Languages 
 ==========
   - Proficient in Java and Scala
-  - Comfortable in JavaScript, HTML, CSS, Python, and Perl
+  - Significant experience in JavaScript, HTML, CSS, Python, and Perl
 
 Tools 
 ======
