@@ -26,20 +26,18 @@
 
 * Experience
 ** Software Engineer, Lockheed Martin Advanced Technologies, 2007 - Present
-*** Biology Systems Simulation Framework
-   - Lead developer for a Scala-based network modeling tool for the National Institutes of Health(NIH). Responsible for the development and maintenance of algorithms and user interfaces to allow biologists to model genetic reactions. Development and evaluation by NIH ongoing.
-*** Security Event Log Aggregation Tool
-   - Lead developer for a Java-based Windows security log aggregation and auditing tool for use across secure networks. Developed user interfaces and tools for the locating and querying of logs across a network, as well as logic performed on the data for auditing. Integrated with OS independent tools to allow for use on networks with current and legacy systems. 
-*** Web enabled Command and Control for Office of Naval Research
-   - Developed JavaScript tools, and Jersey web services for ONR Command and Control (C2) capabilities, facilitating planning and organizational briefings to Navy Admirals. Responsible for creation of organizational tool and RESTful web services for providing XML and JSON data to other C2 applications.
+*** Systems Biology Simulation Framework
+   - Lead developer for a Scala-based network modeling framework for the National Institutes of Health(NIH). Responsible for the development and maintenance of algorithms and user interfaces to allow biologists to model genetic reactions. Utilized SBT for build structure, and ScalaScriptEngine for run time compilation of user built networks.
+*** Distributed Event Log Aggregator
+   - Lead developer for a Java-based, security log aggregation and auditing tool for use across secure networks. Developed a user friendly tool for the locating and querying of logs across a network, as well as logic performed on the data for auditing. Allowed for client and server side filtering, and search capabilities. Integrated with OS independent tools to allow for use on networks with current and legacy systems. 
+*** RESTfull Web Services allowing Command and Control for Office of Naval Research
+   - Developed JavaScript web clients and Jersey REST services for ONR Command and Control (C2) capabilities, facilitating planning and organizational briefings to Navy Admirals. Responsible for creation of command relationship tool and web services for providing XML and JSON data to other C2 applications. Provided quality control and cross browser debugging support for off-site team members.
 *** Augmented Reality Prototyping for DARPA ULTRA-Vis
-   - Developer on a team that prototyped a wearable, P2P, augmented reality system to provide additional situational awareness for warfighters. Developed P2P communication systems and integrated hardware and software solutions from five partners to allow functionality in and out of GPS challenged environments. Successfully demonstrated in the field to DARPA personnel in January 2010.
+   - Developed prototype of a wearable, P2P, augmented reality system to enhance the warfighter's situational awareness. Developed P2P communication systems and integrated a head-mounted display with cameras creating a 3D model of the current viewable area and directional sensors from five partners to allow functionality in and out of GPS challenged environments. Successful field demonstration to DARPA personnel in January 2010.
 *** Test Automation Framework
-   - Developed a Python-based test automation framework to allow for a faster testing cycle. Responsible for creation of framework and examples to allow for developers to better automate procedure based testing. Framework was in use for two years until project completion.
-*** Web Enabled Intelligence and Surveillance Tool
-   - Developer on a team that used JAX-WS and GWT create web services and a client to present tracks, routes, and threat maps. Responsible for connecting web services to Postgres database and controlling of geospatial extensions, along with logic to perform spatial reasoning on data.
+   - Developed a Python-based test automation framework to allow for a faster testing cycle. Responsible for creation of framework and examples to allow developers to automate procedure based testing of project functionality. Improved testing cycles from minutes down to seconds. Presented a workshop on the framework, which was then adopted by team and used for two years until project completion.
 ** Web Development Intern, USGS Astrogeology, 2006 - 2007
-   - Developed and maintained websites for the USGS Astrogeology department including astrogeology.usgs.gov and mapaplanet.org using JavaScript, HTML, and Perl, in conjunction with Postgres and GIS databases.
+   - Developed and maintained websites for the USGS Astrogeology department using JavaScript, HTML, and Perl. Updated and expanded content, and added new functionality to allow for astrogeologists to more easily view and interact with NASA imagery via mapaplanet.org. Integrated Perl scripts with GIS enabled databases to provide on demand content to users. 
 * Technical Expertise
 ** Languages
   - Proficient in Java and Scala
