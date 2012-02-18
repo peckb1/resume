@@ -41,7 +41,7 @@
 * Technical Expertise
 ** Languages
   - Proficient in Java and Scala
-  - Significant experience in JavaScript, HTML, CSS
+  - Significant experience in JavaScript, HTML, and CSS
   - Familiar with Python and Perl
 ** Tools
   - SBT, Ant, Git, Mercurial, Eclipse, IntelliJ
