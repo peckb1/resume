@@ -47,7 +47,7 @@
   - Significant experience in JavaScript, HTML, and CSS
   - Familiar with Python and Perl
 ** Tools
-  - SBT, Ant, Git, Mercurial, Elastic Search, MongoDB, Eclipse
+  - SBT, Ant, Git, Mercurial, Elastic Search, MongoDBi, Neo4j, Eclipse
 * Awards
   - 2011: Lockheed Martin Spot Award for exceeding project expectations on security log aggregation tool.
   - 2010: Lockheed Martin Spot Award for recognition of customer praise in creating C2 organizational tool, and technical support.
