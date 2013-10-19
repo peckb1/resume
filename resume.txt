@@ -1,9 +1,20 @@
+ORG-CENTER-START
+65 Rio Robles E #3413 | San Jose, CA | 619-800-8774 | brian.andrew.peck@gmail.com
+-----
+ORG-CENTER-END
 
 Experience 
 ~~~~~~~~~~~
 
-Software Engineer, Lockheed Martin Advanced Technologies, 2007 - Present 
-=========================================================================
+Software Engineer, Intel, 2012 - Present 
+=========================================
+
+Ingestion and Management of data from external sources to front end data systems 
+---------------------------------------------------------------------------------
+   - Designed and Developed Scala-based system for loading, and managing external provider data. Worked from initial prototype stages to production ready system on the ability to ingest, curate, and serve specific data to front end consumers.  
+
+Software Engineer, Lockheed Martin Advanced Technologies, 2007 - 2012 
+======================================================================
 
 Systems Biology Simulation Framework 
 -------------------------------------
@@ -40,7 +51,7 @@ Languages
 
 Tools 
 ======
-  - SBT, Ant, Git, Mercurial, Eclipse, IntelliJ, Google Protocol Buffers
+  - SBT, Ant, Git, Mercurial, Elastic Search, MongoDBi, Neo4j, Eclipse
 
 Awards 
 ~~~~~~~
@@ -51,5 +62,5 @@ Awards
 
 Education 
 ~~~~~~~~~~
-  - /Master of Science in Computer Science/, University Southern California 2013 (expected)
+  - /Master of Science in Computer Science/, University Southern California 2014 (expected)
   - /Bachelor of Science in Computer Science/, Northern Arizona University 2007
