@@ -20,14 +20,17 @@
 
 #+BEGIN_CENTER
 #+LaTeX: {\huge Brian Peck} \\
-65 Rio Robles E #3413 | San Jose, CA | 619-800-8774 | brian.andrew.peck@gmail.com
+1200 E Hillsdale Blvd #209 | Foster City, CA | 619-800-8774 | brian.andrew.peck@gmail.com
 -----
 #+END_CENTER
 
 * Experience
-** Software Engineer, Intel, 2012 - Present
+** Software Engineer, Apartment List, 2014
+*** Apartment List Android Application
+   - Designed and developed the native Android OS application for Apartment List. Responsible for high visibility consumer facing features, and managing of user-data stored on the device and its synchronization with server side APIs.
+** Software Engineer, Intel, 2012 - 2014
 *** Ingestion and Management of data from external sources to front end data systems
-   - Designed and Developed Scala-based system for loading, and managing external provider data. Worked from initial prototype stages to production ready system on the ability to ingest, curate, and serve specific data to front end consumers.  
+   - Designed and developed Scala-based system for loading, and managing external provider data. Worked from initial prototype stages to production ready system on the ability to ingest, curate, and serve specific data to front end consumers.  
 ** Software Engineer, Lockheed Martin Advanced Technologies, 2007 - 2012
 *** Systems Biology Simulation Framework
    - Lead developer of a Scala-based network modeling framework for the National Institutes of Health (NIH). Responsible for the development and maintenance of algorithms and user interfaces allowing biologists to model genetic reactions. Framework allows run-time compilation of user-built networks through the user of ScalaScriptEngine.
@@ -37,22 +40,20 @@
    - Developed web applications and RESTful services for Navy Command and Control (C2) capabilities, used in weekly planning and organizational briefings to Navy Admirals. Created command relationship tool and additional web services providing XML and JSON data to other C2 applications.
 *** Augmented Reality Prototyping for DARPA ULTRA-Vis
    - Developed prototype of a wearable, P2P, augmented reality system to enhance the warfighter's situational awareness. Developed P2P communication systems and integrated a head-mounted display with cameras creating a 3D model of the current viewable area and directional sensors from five partners to allow functionality in and out of GPS challenged environments. Successful field demonstration to DARPA personnel in January 2010.
-*** Test Automation Framework
-   - Developed a Python-based test automation framework resulting in a reduction of testing time by a factor of 60. Provided project developers with examples to allow automation of existing manual tests. Led a workshop to train the development team on the framework, which was then adopted by the team and used for two years until project completion.
 ** Web Development Intern, USGS Astrogeology, 2006 - 2007
    - Developed and maintained websites for the USGS Astrogeology Department using JavaScript, HTML, and Perl. Updated and expanded content, and improved user experience for existing NASA imagery viewer available at http://www.mapaplanet.org. Integrated Perl scripts with GIS enabled databases to provide on-demand content to users. 
 * Technical Expertise
 ** Languages
   - Proficient in Java and Scala
-  - Significant experience in JavaScript, HTML, and CSS
-  - Familiar with Python and Perl
+  - Significant experience in JavaScript, HTML, and CSS  
+  - Familiar with Python
 ** Tools
-  - SBT, Ant, Git, Mercurial, Elastic Search, MongoDBi, Neo4j, Eclipse
+  - Git, Mecrurial, SBT, Gradle, Ant, Elastic Search, MongoDB, Neo4j, Eclipse, Intellij
+  - Object Oriented Programming, REST API Design
 * Awards
   - 2011: Lockheed Martin Spot Award for exceeding project expectations on security log aggregation tool.
   - 2010: Lockheed Martin Spot Award for recognition of customer praise in creating C2 organizational tool, and technical support.
   - 2008: Lockheed Martin Spot Award for demonstrating exceptional performance developing web enabled track fusion capabilities.
-  - 2008: Lockheed Martin Team Special Recognition Award for work in Java web services.
 * Education
   - /Master of Science in Computer Science/, University Southern California 2014 (expected)
   - /Bachelor of Science in Computer Science/, Northern Arizona University 2007
